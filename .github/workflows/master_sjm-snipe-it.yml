@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'sjm-snipe-it'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D1B620043124C20BBC0D821B23C6C88 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A737FE06E3724F4A9F45E29EA1F91706 }}
           package: .
